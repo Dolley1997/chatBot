@@ -27,7 +27,8 @@ reflections = {
   "your"       : "my",
   "yours"      : "mine",
   "you"        : "me",
-  "me"         : "you"
+  "me"         : "you",
+  "doll"       : "Doll"
 }
 
 
